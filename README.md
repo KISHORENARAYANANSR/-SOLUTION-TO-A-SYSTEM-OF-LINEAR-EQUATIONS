@@ -15,13 +15,21 @@ Using the np.linalg.solve(), we can find the solutions.
 End the program
 ## Program:
 #Program to find the solution for the given linear equations.
+
 #Developed by: KISHORE NARAYANAN S R
+
 #RegisterNumber:212223110023
+
 import numpy as np
+
 coefficients = np.array([[5,-3,-10], [2,2,-3], [-3,-1,5]])
+
 constants = np.array([-9,4,-1])
+
 solution = np.linalg.solve(coefficients, constants)
+
 print(solution)
+
 
 
 ## Output:

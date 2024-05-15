@@ -1,4 +1,4 @@
-#EX -01-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
+# EX-01-SOLUTION-TO-A-SYSTEM-OF-LINEAR-EQUATIONS
 ## Aim:
 To write a python program to find a solution to a system of linear equations.
 ## Equipment’s required:
